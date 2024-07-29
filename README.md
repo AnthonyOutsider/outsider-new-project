@@ -23,11 +23,11 @@ To get started with the project, follow these steps:
    
 2. Navigate to the project directory:
    ```bash
-  cd your-repository-name
+   cd your-repository-name
 
-3.	Open the project in Xcode:
+2. Navigate to the project directory:
    ```bash
-   open Outsider\ New\ Project.xcodeproj```
+   open Outsider\ New\ Project.xcodeproj
    
 4.    Build and run the project in Xcode.
 
@@ -56,3 +56,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - Thank you to all contributors and users for their support.
+
