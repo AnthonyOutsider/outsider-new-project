@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 3.	Open the project in Xcode:
    ```bash
-   open Outsider\ New\ Project.xcodeproj
+   open Outsider\ New\ Project.xcodeproj```
    
 4.    Build and run the project in Xcode.
 
