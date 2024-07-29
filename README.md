@@ -19,15 +19,15 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git```
+   git clone https://github.com/yourusername/your-repository-name.git
    
 2. Navigate to the project directory:
    ```bash
-  cd your-repository-name```
+  cd your-repository-name
 
-2. Navigate to the project directory:
+3.	Open the project in Xcode:
    ```bash
-   open Outsider\ New\ Project.xcodeproj```
+   open Outsider\ New\ Project.xcodeproj
    
 4.    Build and run the project in Xcode.
 
