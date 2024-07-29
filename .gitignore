@@ -1,17 +1,8 @@
-# macOS
+# .gitignore
 .DS_Store
-
-# Xcode
 build/
 DerivedData/
 *.xcworkspace
 xcuserdata/
 *.xcuserstate
-
-# Swift Package Manager
-.build/
-Packages/
-.package.resolved
-
-# CocoaPods
-Pods/
+# folder_structure/
